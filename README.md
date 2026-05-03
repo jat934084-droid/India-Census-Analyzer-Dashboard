@@ -1,4 +1,5 @@
-# India-Census-Analyzer-Dashboar
+# India-Census-Analyzer-Dashboard Web Application
+
 <img src="https://github.com/jat934084-droid/India-Census-Analyzer-Dashboard/blob/master/census.png" height="300" width="550" >
 
 ## Introduction
