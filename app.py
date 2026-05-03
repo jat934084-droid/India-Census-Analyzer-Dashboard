@@ -190,14 +190,13 @@ The project was developed by Me of data enthusiasts with a passion for building 
 
 
     # some about me
-    st.write('#### Rohit Verma')
+    st.write('#### Ashish Jat')
     st.write('##### Data Analyst Fresher')
     st.write('##### Skills- *Data Visualization*, *Database Management*, *Database Design*, *Python*, *Web Scraping*, *Mysql*,*Tableau*')
-    st.write('##### gamil- rohitvermav0021@gmail.com')
-    st.write('##### linkedin - [Rohit verma](https://www.linkedin.com/in/rohit-verma-3094b8224/)')
+    st.write('##### gamil- ashishjat268@gmail.com')
 
     # Footer
-    st.write('##### For more information and view the source code, visit our project on [GitHub](https://github.com/RohitVerma0021/india_cencus_project)')
+    st.write('##### For more information and view the source code, visit our project on [GitHub](https://github.com/jat934084-droid/india_cencus_project)')
     st.write("## My Other Projects")
     with st.container():
         col1, col2 = st.columns([1, 4])
@@ -205,7 +204,7 @@ The project was developed by Me of data enthusiasts with a passion for building 
             st.image('datacleaning.jpg', use_column_width=True)
         with col2:
             st.header(
-                '[Data Cleaning and Structuring in MySQL](https://github.com/RohitVerma0021/Data-Cleaning-and-Structuring-in-MySQL)')
+                '[Data Cleaning and Structuring in MySQL](https://github.com//Data-Cleaning-and-Structuring-in-MySQL)')
             st.write(
                 'The project focuses on cleaning and structuring large datasets in MySQL using various MySQL functions. Data cleaning is a crucial step in data analysis, where raw data is transformed into a clean and structured format, ready for further analysis. The project will use various MySQL functions to clean data such as SUBSTRING_INDEX(), LEFT(), and TRIM(). These functions can separate, remove, or replace specific parts of the data in columns, making it easier to work with the data.')
 
@@ -216,7 +215,7 @@ The project was developed by Me of data enthusiasts with a passion for building 
             st.image('webscrapin.jpg', use_column_width=True)
         with col2:
             st.header(
-                '[Web-Scraping-Project](https://github.com/RohitVerma0021/Web-Scraping-Project-Flipkart-Mobile-Data)')
+                '[Web-Scraping-Project](https://github.com/jat934084-droid/Web-Scraping-Project-Flipkart-Mobile-Data)')
             st.write(
                 "In this project, I scraped mobile data from e-commerce using Python and Beautiful Soup. The goal was to gather information on 984 mobiles from Flipkart's website, including product name, price, ratings, and specifications.")
 
