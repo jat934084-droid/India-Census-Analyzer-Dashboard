@@ -44,6 +44,6 @@ To use this app, follow these steps:
 
 ## Project Links
 - GitHub Repository: [india_census_project](https://github.com/jat934084-droid/India-Census-Analyzer-Dashboard)
-- Live Demo: https://rohitverma0021-india-census-analyzer-dashboard-app-x6gl39.streamlit.app/
+- Live Demo: https://india-census-analyzer-dashboard-n634fmqqjfbg6jcmzc3e9x.streamlit.app/
 
 
